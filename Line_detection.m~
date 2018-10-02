@@ -1,0 +1,9 @@
+
+for i = 1:82
+    I_dest = ['color',num2str(i),'.png']
+    
+end
+
+%I_dest = 
+%I = imread('color1.png');
+%imshow(I)
